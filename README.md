@@ -1,5 +1,7 @@
 # React: Slideshow App
 
+see (Slide show deployed)[https://slide-show-brown.vercel.app/]
+
 ## Environment 
 
 - React Version: 16.13.1
