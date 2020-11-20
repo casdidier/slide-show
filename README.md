@@ -1,6 +1,6 @@
 # React: Slideshow App
 
-see (Slide show deployed)[https://slide-show-brown.vercel.app/]
+see [Slide show deployed](https://slide-show-brown.vercel.app/)
 
 ## Environment 
 
